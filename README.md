@@ -32,12 +32,21 @@ Step 9: Accuracy and Score of model
 
 
 Resourses:-https://www.tensorflow.org/tutorials/images/classification
+
 used library like
+
 tensorflow,
+
 pandas
+
 numpy
+
 keras
+
 pytorch
+
 plotly
+
 seaborn 
+
 Thank you
